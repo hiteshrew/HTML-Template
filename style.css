@@ -30,7 +30,7 @@ clear: both;
 
 #nav{
 
-	height: 40px;
+	height: 50px;
 	background: #666;
 
 }
@@ -90,5 +90,38 @@ input,textarea{
 	width:100%;
 	padding:5px;
 	margin-bottom: 15px;
+
+}
+
+
+textarea{
+	
+	height: 100px;
+}
+
+.btn {
+					    border: 2px solid #666;
+
+					  padding: 16px 32px;
+					  text-align: center;
+
+						margin-right: 40px;
+					  
+					  display: inline-block;
+					  font-size: 16px;
+					 
+					  cursor: pointer;
+
+					  border-radius:20px;
+					  background-color:#fff;
+
+					  margin-left:500px; 
+	
+						}
+.btn:hover{
+
+	font-weight: bold;
+	background-color:#666;
+	color:white;
 
 }
